@@ -10,3 +10,4 @@ Also, operators '==' '!=' '>' '<' are overloaded to compare strings.
 Operator '+=' is overloaded to add another character in the end of a string.
 
 Finally, array is returned as a C string together with it's length.
+
