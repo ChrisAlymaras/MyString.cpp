@@ -1,4 +1,3 @@
-# MyString.cpp
 MyString class represents strings without the use of C++ STL or String libraries.
 This is accomplished with the use of a char array and the length of it.
 
